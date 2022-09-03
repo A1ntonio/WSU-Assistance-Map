@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "978247136148",
+    "project_id": "wsu-campus-map-4c8c8",
+    "storage_bucket": "wsu-campus-map-4c8c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978247136148:android:0af7091af6cb5d83f1d581",
+        "android_client_info": {
+          "package_name": "com.puulapp.wsumap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978247136148-g66jg73164dc3qj214ophi8hp0t5oe3a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCMjmMTDZhm-uXHVOpm_9hXpQihvP7sIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978247136148-g66jg73164dc3qj214ophi8hp0t5oe3a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
